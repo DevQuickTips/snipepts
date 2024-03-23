@@ -1,1 +1,1 @@
-# snipepts
+# DevQuickTips | Snippets
